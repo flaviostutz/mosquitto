@@ -26,7 +26,7 @@ persistent and change the configuration.
     -v /srv/mqtt/config:/mqtt/config:ro \
     -v /srv/mqtt/log:/mqtt/log \
     -v /srv/mqtt/data/:/mqtt/data/ \
-    --name mqtt toke/mosquitto
+    --name mqtt flaviostutz/mosquitto
 
 
 Volumes: /mqtt/config, /mqtt/data and /mqtt/log
