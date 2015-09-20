@@ -5,7 +5,7 @@ Docker image for mosquitto
 
 ## Run
 
-    docker run -tip 1883:1883 -p 9001:9001 toke/mosquitto
+    docker run -tip 1883:1883 -p 9001:9001 flaviostutz/mosquitto
 
 Exposes Port 1883 (MQTT) 9001 (Websocket MQTT)
 
