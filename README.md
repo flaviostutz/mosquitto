@@ -1,5 +1,7 @@
-docker-mosquitto
-================
+# docker-mosquitto
+
+[<img src="https://img.shields.io/docker/pulls/flaviostutz/mosquitto"/>](https://hub.docker.com/r/flaviostutz/mosquitto)
+[<img src="https://img.shields.io/docker/automated/flaviostutz/mosquitto"/>](https://hub.docker.com/r/flaviostutz/mosquitto)
 
 Docker image for mosquitto
 
